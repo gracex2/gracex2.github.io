@@ -39,3 +39,4 @@ with friends
 An inspirational quote for me
 > "People ignore design that ignores people"
 by Frank Chimero (Designer)
+![a picture of Frank Chimero](frank-chimero.png)
